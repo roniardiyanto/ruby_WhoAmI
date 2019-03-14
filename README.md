@@ -6,3 +6,4 @@ Program ini berfungsi meminta inputan dari user dan kemudian menampilkannya kemb
 ![screenshot](https://raw.githubusercontent.com/roniardiyanto/ruby_WhoAmI/master/assets/screenshot.png)
 
 # Penggunaannya
+![Penggunaan](https://raw.githubusercontent.com/roniardiyanto/ruby_WhoAmI/master/assets/dimul.gif)
